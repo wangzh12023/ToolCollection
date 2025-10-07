@@ -4,6 +4,26 @@ Curated personal collection of frequently used tools and software recommendation
 
 > Purpose: Quick reference when setting up a fresh environment or recommending tools to others.
 
+
+## Categories
+
+
+- Software: 💾 Software
+- Tool: 🛠️ Tool
+- Website: 🌐 Website
+- GitHub Project: 📦 GitHub Project
+
+
+
+
+## Timeline
+
+
+- 📦[FileConverter](https://github.com/Tichau/FileConverter) - windows file converter tool
+- 📦[bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) - bilibili / douyin video replay tool, recording live.
+- 📦[Lx-music](https://github.com/lyswhut/lx-music-desktop) - music player for various platforms.
+
+
 ## Table of Contents
 - Core Development
 - Editors & IDE Enhancements
