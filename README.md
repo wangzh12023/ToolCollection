@@ -49,4 +49,4 @@ Curated personal collection of frequently used tools and software recommendation
 ## Video & Live Downloaders
 - 📦[bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) - bilibili / douyin video replay tool, recording live.
 - 📦[yt-dlp](https://github.com/yt-dlp/yt-dlp) - All videos downloader with advanced features.
-- 📦[TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+- 📦[TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok video downloader.
