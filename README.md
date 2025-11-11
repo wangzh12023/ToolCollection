@@ -13,8 +13,9 @@ Curated personal collection of frequently used tools and software recommendation
 - Website: 🌐 Website
 - GitHub Project: 📦 GitHub Project
 
-
+ 
 ## Timeline
+- 📦[AnyText](https://anytxt.net/download/) - A Desktop Search Tool with A Powerful Full-Text Search Engine
 - 🌐[When2meet](https://www.when2meet.com/) - Coordinate group meetings
 - 🌐[Time to meet](https://timeful.app/) - Coordinate group meetings
 - 📦[FileConverter](https://github.com/Tichau/FileConverter) - windows file converter tool
@@ -50,3 +51,6 @@ Curated personal collection of frequently used tools and software recommendation
 - 📦[bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) - bilibili / douyin video replay tool, recording live.
 - 📦[yt-dlp](https://github.com/yt-dlp/yt-dlp) - All videos downloader with advanced features.
 - 📦[TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok video downloader.
+
+## File Management
+- 📦[AnyText](https://anytxt.net/download/) - A Desktop Search Tool with A Powerful Full-Text Search Engine
