@@ -40,7 +40,11 @@ Curated personal collection of frequently used tools and software recommendation
 
 ## AI Tools
 - 🌐[AI-bot](https://ai-bot.cn/#term-15) - AI tools collections 
-
+### AI api management
+- 🌐[OpenRouter](https://openrouter.ai/)
+- 🌐[LiteLLM](https://docs.litellm.ai/docs/)
+- 📦[new-api](https://github.com/QuantumNous/new-api)
+- 📦[One API](https://github.com/songquanpeng/one-api)
 ## Notes & Knowledge Management
 - 🌐[Notion](https://www.notion.so) — All-in-one workspace
 - 🌐[Obsidian](https://obsidian.md) — Markdown knowledge base
