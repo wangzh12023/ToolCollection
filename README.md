@@ -15,6 +15,11 @@ Curated personal collection of frequently used tools and software recommendation
 
  
 ## Timeline
+- 🌐[Paywall Buster](https://paywallbuster.com/) - Bypass paywalls for news articles.
+- 🌐[OpenRouter](https://openrouter.ai/)
+- 🌐[LiteLLM](https://docs.litellm.ai/docs/)
+- 📦[new-api](https://github.com/QuantumNous/new-api)
+- 📦[One API](https://github.com/songquanpeng/one-api)
 - 📦[AnyText](https://anytxt.net/download/) - A Desktop Search Tool with A Powerful Full-Text Search Engine
 - 🌐[When2meet](https://www.when2meet.com/) - Coordinate group meetings
 - 🌐[Time to meet](https://timeful.app/) - Coordinate group meetings
@@ -58,3 +63,6 @@ Curated personal collection of frequently used tools and software recommendation
 
 ## File Management
 - 📦[AnyText](https://anytxt.net/download/) - A Desktop Search Tool with A Powerful Full-Text Search Engine
+
+## Misc
+- 🌐[Paywall Buster](https://paywallbuster.com/) - Bypass paywalls for news articles.
